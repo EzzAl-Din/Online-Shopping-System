@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project is a Python-based online shopping system that demonstrates my proficiency in Object-Oriented Programming (OOP).<br>
-The system incorporates classes to manage products, customers, and orders, showcasing the use of OOP principles.<br>
-Users can interact with various product types, manage a shopping cart, and place orders through a user-friendly interface.<br>
+This project is a Python-based online shopping system that demonstrates my proficiency in Object-Oriented Programming (OOP).
+The system incorporates classes to manage products, customers, and orders, showcasing the use of OOP principles.
+Users can interact with various product types, manage a shopping cart, and place orders through a user-friendly interface.
 By employing OOP techniques, the system is designed with modularity and scalability in mind, allowing for efficient code organization and<br> ease of maintenance.
 
 ## Features
